@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Paperclip Copy 
 
-You can use the [editor on GitHub](https://github.com/paperclipcopy/paperclipcopy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+See these words? We write these words. We take your business and transform it into a few kilobytes on the web.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What do we do?
 
-### Markdown
+We offer copywriting and website SEO, as well as proofreading, business names and taglines, corporate writing and advertising scripts. We've been known to offer snarky takes without being prompted, too.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Why us?
 
-```markdown
-Syntax highlighted code block
+We're young, clever, and reasonably priced. We're opinionated on the use of the Oxford comma, and aren't afraid of the semi-colon. But we're also flexible, if you're not as keen on those as we are. (And we're happy to open a sentence with a conjunction --- don't believe everything your high school English teacher told you.)
 
-# Header 1
-## Header 2
-### Header 3
+### How do you hire us?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paperclipcopy/paperclipcopy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Our favourite question. Drop us a line at (hello@paperclipcopy.com)[mailto:hello@paperclipcopy.com] and we'll get started!
